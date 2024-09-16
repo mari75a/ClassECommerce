@@ -1,0 +1,176 @@
+.background{
+    width: 100%;
+    height: 700px;
+    background-image:linear-gradient(to left, rgba(12, 11, 11, 0), rgb(39, 36, 36)), url("resource/student1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.navc{
+    background-color: #0D1821;
+    
+    
+}
+.box2{
+  border-radius: 20px;
+}
+.secondcolor{
+  background-color: #344966;
+}
+.thirdcolor{
+  background-color: #B4CDED;
+}
+.cart-icon{
+    background-image: url("resource/cartico.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  }
+  .main-body{
+    background-image: url("resource/white-and-gold-12.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.portal1{
+    background-image: url("resource/realistic-luxury-background_23-2149331831.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.body-color{
+    background-color: #F6F9FA;
+}
+.box-color{
+    background-color: #FFFFFF;
+    
+}
+.border1{
+    border:solid 1px black ;
+    border-radius: 5px;
+    
+}
+.butn:hover{
+    background-color: #5b2c81;
+}
+.l1{
+    animation-name: l1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite
+}
+.bg2{
+    background-image: url("resource/gradient-luxurious-background_23-2148984500.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    
+}
+.bg3{
+    background-image: url("resource/download\ \(11\).jfif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    
+}
+.bg4{
+  background-image: url("resource/timg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  
+}
+.bg5{
+  background-image: url("resource/logo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  width: 500px;
+  height: 500px;
+}
+.txtcl{
+  color: #7C6868;
+  font-size: 20px;
+}
+@keyframes l1 {
+    from {color: black;}
+    to {color: white;}
+  }
+
+  .l2{
+    animation-name: l2;
+    animation-duration: 4s;
+    animation-iteration-count: infinite
+}
+@keyframes l2 {
+    from {color: purple;}
+    to {color: yellow;}
+  }
+  .background2{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(to left, rgba(12, 11, 11, 0), rgb(39, 36, 36)), url("resource/realistic-luxury-background_23-2149331831.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.title1{
+    font-family: "Honey";
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+#myButton {
+  background-color: #f7f7f7;
+    color: white;
+    padding: 10px 20px;
+    transition: all 0.5s ease-in-out;
+  }
+
+  #myButton:hover {
+    
+    transform: scale(1.1);
+    z-index: 100;
+  }
+  #button:hover{
+    transform: scale(1.1);
+  }
+  #x:hover{
+    background-color: aquamarine;
+  }
+  .animate__animated.animate__fadeInDown {
+    
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    
+    
+    
+  }
+  
+  .animate__animated.animate__swing {
+    
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    
+    
+    
+  }
+  .gray{
+    background-color: #B6BDC5;
+  }
+  .price{
+    border-color: #21102F;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+  }
+  .circle{
+
+    border-radius: 50%;
+    width: 20px;
+
+    height:20px;
+    
+    top:25px;
+    right: 500px;
+  }
+  
+  
